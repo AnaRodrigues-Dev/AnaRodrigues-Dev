@@ -1,19 +1,19 @@
-<h1> align="center">Ana Rodrigues </h1>
+<h1 align="center">Ana Rodrigues </h1>
 
 <p align="center">
   🎓 Estudante de <strong>Engenharia de Software</strong> na Jala University  
-  💻 Focada em <strong>Python, CSS, Java Script</strong> e Análise de Dados  
-  🚀 Construindo meu portfólio de desenvolviomento
+   Focada em <strong>Python, CSS, Java Script</strong> e Análise de Dados  
+   Construindo meu portfólio de desenvolviomento
 </p>
 
 ---
 
 ## 💡 Sobre mim
-- 👩‍💻 Estudando Programação e desenvolvimento de projetos práticos  
-- 📊 Interesse especial em **Backend (Pythom)** e **Frontend ( Html,CSS, JS)**  
-- 🌱 Sempre buscando aprender algo novo todos os dias  
-- 📍 Brasil  
-- 🎯 Objetivo: Ser uma Desenvolvedora Fullstack
+-  Estudando Programação e desenvolvimento de projetos práticos  
+- Interesse especial em **Backend (Pythom)** e **Frontend ( Html,CSS, JS)**  
+- Sempre buscando aprender algo novo todos os dias  
+- Brasil  
+- Objetivo: Ser uma Desenvolvedora Fullstack
 
 ---
 
