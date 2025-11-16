@@ -10,9 +10,8 @@
 
 ## 💡 Sobre mim
 -  Estudando Programação e desenvolvimento de projetos práticos  
-- Interesse especial em **Backend (Pythom)** e **Frontend ( Html,CSS, JS)**  
+- Interesse especial em **Backend (Python)** e **Frontend ( Html,CSS, JS)**  
 - Sempre buscando aprender algo novo todos os dias  
-- Brasil  
 - Objetivo: Ser uma Desenvolvedora Fullstack
 
 ---
@@ -28,7 +27,7 @@
 ### ⚙️ Ferramentas
 - Git & GitHub  
 - VS Code • IntelliJ • PyCharm  
-- Power BI • Excel (tratamento de dados)
+- Power BI • Excel (tratamento e exibição de dados)
 
 ---
 
@@ -54,7 +53,7 @@ Página pessoal estilizada em HTML e CSS.
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaRodrigues-Dev&show_icons=true&theme=tokyonight&count_private=true)
 
