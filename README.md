@@ -31,26 +31,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 **GOL_Ecossistema**  
-Simulação do Jogo da Vida em Java. Representa interações entre elementos do ecossistema.  
-📌 *Java • Programação Orientada a Objetos*
-
-### 🔹 **Livros_Magicos**  
-Sistema de biblioteca em Python para cadastro e gerenciamento de livros.  
-📌 *Python • Estrutura de dados*
-
-### 🔹 **Calculadora de IMC**  
-Aplicação simples para calcular IMC com lógica em Python.  
-📌 *Projeto iniciante*
-
-### 🔹 **Sobre_mim**  
-Página pessoal estilizada em HTML e CSS.  
-📌 *Front-end básico*
-
----
-
 ## 📊 Estatísticas
 
 <div>
