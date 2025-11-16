@@ -1,4 +1,4 @@
-h1 align="center">Olá! Eu sou a Ana Rodrigues 👋</h1>
+<h1> align="center">Ana Rodrigues </h1>
 
 <p align="center">
   🎓 Estudante de <strong>Engenharia de Software</strong> na Jala University  
@@ -70,4 +70,4 @@ Página pessoal estilizada em HTML e CSS.
 
 ---
 
-<h3 align="center">✨ Obrigada por visitar meu perfil! Sempre aprendendo e evoluindo 💙</h3>
+<h3 align="center"> Obrigada por visitar meu perfil! Sempre aprendendo e evoluindo!✨</h3>
